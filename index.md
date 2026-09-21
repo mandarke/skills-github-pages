@@ -1,46 +1,29 @@
----
-title: Welcome to my blog!
----
-# Teste de Conhecimentos Gerais
+# Hi there, I'm Miguel Andrade 👋
 
-## Pergunta 1
-Qual é a capital de Portugal?
+### Data Analyst | Power BI | SQL | Excel | Learning Python & Data Science
 
-- [ ] Porto
-- [x] Lisboa
-- [ ] Coimbra
-- [ ] Faro
+I'm a Data Analyst based in Porto, Portugal, with around five years of experience turning business data into clear, actionable insights.
+
+My current work focuses on data analysis, reporting automation, KPI monitoring, and decision support using Power BI, SQL, and Excel. I'm now strengthening my skills in statistics, data modelling, Python, and machine learning to progress into a Senior Data Analyst role and gradually transition into Data Science.
 
 ---
 
-## Pergunta 2
-Quanto é 15 + 27?
+## 🔍 About Me
 
-- [ ] 40
-- [ ] 41
-- [x] 42
-- [ ] 43
-
----
-
-## Pergunta 3
-Qual destes é um sistema de gestão de bases de dados?
-
-- [ ] Excel
-- [ ] PowerPoint
-- [x] SQL Server
-- [ ] Word
+- 📊 Experienced in business intelligence, reporting and exploratory data analysis
+- 🧩 Interested in transforming complex datasets into practical business recommendations
+- 🛠️ Currently working with **Power BI, SQL and Excel**
+- 🐍 Learning **Python, pandas, statistics and machine learning**
+- ☁️ Exploring **Microsoft Fabric, Azure and cloud analytics**
+- 📈 Improving my skills in **data storytelling, dimensional modelling and experimentation**
+- 🌍 Open to collaborating on data analytics and business intelligence projects
 
 ---
 
-## Resposta Aberta
+## 🎯 Professional Goals
 
-**Descreve brevemente o que faz um Analista de Dados:**
-
-> Escreve a tua resposta aqui.
-
----
-
-## Resultado
-
-**Pontuação:** ____ / 3
+- Progress into a **Senior Data Analyst** role
+- Build robust and reusable analytical solutions
+- Improve the connection between data, business decisions and measurable outcomes
+- Develop production-ready Python and machine learning skills
+- Deepen my knowledge
